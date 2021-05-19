@@ -1,4 +1,4 @@
-0,1
+iso,Country
 ABW,Aruba
 AFG,Afghanistan
 AGO,Angola
@@ -30,7 +30,7 @@ BLM,Saint Barthélemy
 BLR,Belarus
 BLZ,Belize
 BMU,Bermuda
-BOL,Bolivia (Plurinational State of)
+BOL,Bolivia
 BRA,Brazil
 BRB,Barbados
 BRN,Brunei Darussalam
@@ -43,7 +43,7 @@ CCK,Cocos (Keeling) Islands
 CHE,Switzerland
 CHL,Chile
 CHN,China
-CIV,Côte d'Ivoire
+CIV,Ivory Coast
 CMR,Cameroon
 COD,"Congo, Democratic Republic of the"
 COG,Congo
@@ -57,14 +57,14 @@ CUW,Curaçao
 CXR,Christmas Island
 CYM,Cayman Islands
 CYP,Cyprus
-CZE,Czechia
+CZE,Czech Republic
 DEU,Germany
 DJI,Djibouti
 DMA,Dominica
 DNK,Denmark
 DOM,Dominican Republic
 DZA,Algeria
-ECU,Ecuador
+ECU,Equador
 EGY,Egypt
 ERI,Eritrea
 ESH,Western Sahara
@@ -78,7 +78,7 @@ FRA,France
 FRO,Faroe Islands
 FSM,Micronesia (Federated States of)
 GAB,Gabon
-GBR,United Kingdom of Great Britain and Northern Ireland
+GBR,United Kingdom
 GEO,Georgia
 GGY,Guernsey
 GHA,Ghana
@@ -121,9 +121,9 @@ KGZ,Kyrgyzstan
 KHM,Cambodia
 KIR,Kiribati
 KNA,Saint Kitts and Nevis
-KOR,"Korea, Republic of"
+KOR,South Korea
 KWT,Kuwait
-LAO,Lao People's Democratic Republic
+LAO,Laos
 LBN,Lebanon
 LBR,Liberia
 LBY,Libya
@@ -143,11 +143,11 @@ MDG,Madagascar
 MDV,Maldives
 MEX,Mexico
 MHL,Marshall Islands
-MKD,North Macedonia
+MKD,Macedonia
 MLI,Mali
 MLT,Malta
-MMR,Myanmar
-MNE,Montenegro
+MMR,Myanmar (Burma)
+MNE,Serbia-Montenegro
 MNG,Mongolia
 MNP,Northern Mariana Islands
 MOZ,Mozambique
@@ -165,7 +165,7 @@ NFK,Norfolk Island
 NGA,Nigeria
 NIC,Nicaragua
 NIU,Niue
-NLD,Netherlands
+NLD,The Netherlands
 NOR,Norway
 NPL,Nepal
 NRU,Nauru
@@ -180,7 +180,7 @@ PLW,Palau
 PNG,Papua New Guinea
 POL,Poland
 PRI,Puerto Rico
-PRK,Korea (Democratic People's Republic of)
+PRK,North Korea
 PRT,Portugal
 PRY,Paraguay
 PSE,"Palestine, State of"
@@ -188,7 +188,7 @@ PYF,French Polynesia
 QAT,Qatar
 REU,Réunion
 ROU,Romania
-RUS,Russian Federation
+RUS,Russia
 RWA,Rwanda
 SAU,Saudi Arabia
 SDN,Sudan
@@ -213,7 +213,7 @@ SWE,Sweden
 SWZ,Eswatini
 SXM,Sint Maarten (Dutch part)
 SYC,Seychelles
-SYR,Syrian Arab Republic
+SYR,Syria
 TCA,Turks and Caicos Islands
 TCD,Chad
 TGO,Togo
@@ -227,20 +227,20 @@ TTO,Trinidad and Tobago
 TUN,Tunisia
 TUR,Turkey
 TUV,Tuvalu
-TWN,"Taiwan, Province of China"
-TZA,"Tanzania, United Republic of"
+TWN,Taiwan
+TZA,Tanzania
 UGA,Uganda
 UKR,Ukraine
 UMI,United States Minor Outlying Islands
 URY,Uruguay
-USA,United States of America
+USA,US
 UZB,Uzbekistan
 VAT,Holy See
 VCT,Saint Vincent and the Grenadines
-VEN,Venezuela (Bolivarian Republic of)
+VEN,Venezuela
 VGB,Virgin Islands (British)
 VIR,Virgin Islands (U.S.)
-VNM,Viet Nam
+VNM,Vietnam
 VUT,Vanuatu
 WLF,Wallis and Futuna
 WSM,Samoa
@@ -248,3 +248,4 @@ YEM,Yemen
 ZAF,South Africa
 ZMB,Zambia
 ZWE,Zimbabwe
+YUG,Yugoslavia
